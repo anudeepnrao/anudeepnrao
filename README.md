@@ -17,5 +17,5 @@
 
 ### Projects I'm working on -
  
-- ##### [FMCDOC](anudeepnrao.github.io/FMCDOC) - a documentary website on FMC Standards and Connectors.
-- ##### [ECE Webbook](ecesdmit.cloudaccess.host)
+- ##### [FMCDOC](https://anudeepnrao.github.io/FMCDOC) - a documentary website on FMC Standards and Connectors.
+- ##### [ECE Webbook](https://ecesdmit.cloudaccess.host)
